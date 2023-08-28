@@ -1,3 +1,8 @@
+## DEPRECATION NOTE ⚠️
+As the fix is merged, this fork is no longer necessary. Please consider using the upstream branch.
+
+[Related concern](https://github.com/Thinkei/translation-distribution/pull/131)
+
 ## Description
 
 Sidekiq strategy to support a granular queue control –
