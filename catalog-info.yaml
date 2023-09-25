@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sidekiq-limit_fetch
+  tags:
+    - external
+    - fork
+    - public
+    - ruby
+  annotations:
+    github.com/project-slug: Thinkei/sidekiq-limit_fetch
+spec:
+  type: service
+  system: find-work
+  lifecycle: production
